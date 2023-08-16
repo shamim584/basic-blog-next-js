@@ -1,0 +1,22 @@
+.blog-list {
+    border-radius: 4px;
+    font-size: 16px;
+    padding: 0px 30px;
+    text-align: left;
+
+}
+
+.blog-list a {
+    color: #11b9be;
+}
+
+.dot {
+    height: 20px;
+    width: 20px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    color: black;
+    text-align: center;
+    margin: 0px 10px;
+}

@@ -1,0 +1,11 @@
+.welcome {
+  padding: 25px;
+  text-align: center;
+  color: #11b9be;
+  border: 1px solid #ad0101;
+  border-radius: 5px;
+}
+
+.welcome span {
+  color: #a11d1d;
+}
