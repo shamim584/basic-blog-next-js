@@ -4,7 +4,7 @@ First, update & run the development server:
 
 ```bash
 npm update
-# or
+and
 npm run dev
 ```
 
